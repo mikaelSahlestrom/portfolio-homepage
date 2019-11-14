@@ -1,7 +1,13 @@
 .Header{
     /* position: absolute; */
     top: 0;
-    height: 200px;
+    /* height: 200px; */
     width: 100%;
     background-color: cornflowerblue;
+    /* display: inline; */
+}
+
+.MyImg{
+    height: 100px;
+    background-color: hotpink;
 }
