@@ -1,13 +1,18 @@
-.Header{
+.HeaderContainer{
     /* position: absolute; */
     top: 0;
     /* height: 200px; */
     width: 100%;
     background-color: cornflowerblue;
     /* display: inline; */
+    display: inline-flex;
+    justify-content: space-evenly;
 }
 
 .MyImg{
-    height: 100px;
+    width: 50%;
     background-color: hotpink;
+    order: 0;
+    border-radius: 15px;
+    margin: 20px;
 }

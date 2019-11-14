@@ -1,6 +1,15 @@
 .Description{
-    text-align: center;
+    text-align: left;
     background-color: firebrick;
     width: 40%;
-    display: inline-block;
+    order: 0;
+    color:white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
 }
+.Description h1{
+    font-size: 1.6em;
+    text-align: center;
+}
+    
