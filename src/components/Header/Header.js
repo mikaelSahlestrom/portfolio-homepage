@@ -2,7 +2,7 @@ import React from 'react';
 import classes from './Header.module.css';
 
 import Description from './Description/Description'
-import myself from '../../assets/myself.svg'
+import myself from '../../assets/avatar.'
 
 const Header = () => {
     return (
